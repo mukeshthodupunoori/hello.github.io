@@ -1,0 +1,15 @@
+{
+	"name": "GPDS Mobile",
+	"short_name": "GPDS Mobile",
+	"description": "GPDS Mobile",
+	"icons": [{
+		"src": "../assets/image/GPDSLogo144x144.png",
+		"sizes": "16x16 32x32 64x64 256x256 512x512"
+
+	}],
+"display": "standalone",
+"start_url": "/",
+	"theme_color": "#0081c2",
+"background_color": "#fff",
+"orientation": "portrait"
+}
